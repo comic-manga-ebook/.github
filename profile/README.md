@@ -1,5 +1,5 @@
 # *.ecmb - The new Comic-Manga-eBook
-### Benefits:
+## Benefits:
 - right to left reading in page-mode for Mangas, while scroll-mode is still top-down
 - of course left to right and top-down reading for (western) Comics
 - advanced support for double-pages
