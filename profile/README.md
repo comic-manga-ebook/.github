@@ -14,7 +14,10 @@
 - a [library](https://github.com/comic-manga-ebook/ecmblib_python) for packing the eBooks
 - a simple-to-use [builder](https://github.com/comic-manga-ebook/ecmb_builder) for building the eBooks from your source-images
 - a mobile-app for reading the eBooks is under developement
-- for downloading source-files you can use this [downloader](https://github.com/manga-download/hakuneko) or your prefered one
+
+
+- for downloading source-files you can use this external [downloader](https://github.com/manga-download/hakuneko) or your prefered one
+  
 
 ## Homepage:
 [https://comic-manga-ebook.github.io](https://comic-manga-ebook.github.io)
