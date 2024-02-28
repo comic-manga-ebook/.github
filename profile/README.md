@@ -16,10 +16,7 @@
 - a mobile-app for reading the eBooks is under developement
   
 For downloading source-files you can use this external [downloader](https://github.com/manga-download/hakuneko) or your prefered one
-  
 
-## Homepage:
-[https://comic-manga-ebook.github.io](https://comic-manga-ebook.github.io)
 
 ### Copyright:
 Copyright (c) 2023 Clemens K. (https://github.com/metacreature)
