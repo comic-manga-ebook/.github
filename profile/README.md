@@ -15,7 +15,7 @@
 - a simple-to-use [builder](https://github.com/comic-manga-ebook/ecmb_builder) for building the eBooks from your source-images
 - a mobile-app for reading the eBooks is under development
   
-For downloading source-files you can use this external [downloader](https://github.com/manga-download/hakuneko) or your prefered one
+For downloading source-files you can use this external [downloader](https://github.com/manga-download/hakuneko) or your preferred one
 
 
 ### Copyright:
