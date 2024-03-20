@@ -13,7 +13,7 @@
 - the [definition](https://github.com/comic-manga-ebook/ecmb_definition) of the file-format and a file-validator
 - a [library](https://github.com/comic-manga-ebook/ecmblib_python) for packing the eBooks
 - a simple-to-use [builder](https://github.com/comic-manga-ebook/ecmb_builder) for building the eBooks from your source-images
-- a mobile-app for reading the eBooks is under development
+- a [mobile-app for reading the eBooks](https://github.com/comic-manga-ebook/ecmb_reader) is under development
   
 For downloading source-files you can use this external [downloader](https://github.com/manga-download/hakuneko) or your preferred one
 
